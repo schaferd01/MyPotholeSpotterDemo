@@ -1,0 +1,21 @@
+Week 1: Planning and Initial Setup
+
+Day 1-2: Project Setup and Architecture Design
+
+Set up the project in Visual Studio using .NET MAUI.
+
+Define the project structure following the MVVM pattern.
+
+Outline key components: UI, camera integration, machine learning (ML), server communication, and data storage.
+
+
+Day 3-4: UI Wireframe and Design
+
+Sketch the initial UI design: a live camera feed, controls for starting/stopping road monitoring, and a list of reported potholes.
+
+Start building the basic UI in .NET MAUI using XAML and data binding principles.
+
+
+Day 5: Camera Integration Research
+
+Research how to access the camera in .NET MAUI. Familiarize yourself with available libraries or APIs to handle live video feed.
